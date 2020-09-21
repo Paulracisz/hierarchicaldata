@@ -6,3 +6,11 @@
 <h2> How it works </h2>
 <p> This project utilizes a model type called <a href="https://stackabuse.com/modified-preorder-tree-traversal-in-django/"> Modified Preorder Tree Traversal</a>, or <strong>MPTT</strong>.
   The goal of this project is to learn how to utilize this method of relational data management.</p>
+
+<h2> Dependencies required for this project </h2>
+<ul>
+  <li>Python 3.8.2</li>
+  <li>Poetry</li>
+  <li>Linux-based or Mac operating system</li>
+  <li>Bash or Zsh shell</li>
+  </ul>
